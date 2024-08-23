@@ -4,7 +4,7 @@ main:
     authors:  Wine reviews were used to determine the type of wine with the goal of creating a wine recommendation
      system  based on user's description of taste preference. Training was performed on an imbalanced dataset using classification
      algorithms like <i>SVM, Naive Bayes and Random Forest Classifier</i>. <i>Neural Network (CNN, RNN and LSTM)</i> and <i>LLM models (DistilBERT and RoBERTa)</i>
-     were also used along with Natural Language Processing to clean and tokenize the unstructed data.Error analysis was done using *SHAP*.
+     were also used along with Natural Language Processing to clean and tokenize the unstructed data.Error analysis was done using <b>SHAP</b>.
     # Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: Personal Project
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
