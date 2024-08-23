@@ -1,12 +1,12 @@
 main:
 
   - title: "Identifying Wine types from Description : Text Classification with LLM/ML and Error Analysis"
-    authors:  In this project, wine reviews were used to determine the type of wine with the goal of creating a wine recommendation
+    authors:  Wine reviews were used to determine the type of wine with the goal of creating a wine recommendation
      system  based on user's description of taste preference. Training was performed on an imbalanced dataset using classification
      algorithms like <i>SVM, Naive Bayes and Random Forest Classifier</i>. <i>Neural Network (CNN, RNN and LSTM)</i> and <i>LLM models (DistilBERT and RoBERTa)</i>
      were also used along with Natural Language Processing to clean and tokenize the unstructed data.Error analysis was done using *SHAP*.
     # Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    #conference_short: MICCAI
+    conference_short: Personal Project
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: ./assets/files/Text_Classification_Report.pdf
     code: https://github.com/anurima-saha/Text-Classification
@@ -20,7 +20,8 @@ main:
       Vision Transformer. The methodology involves the use of transfer learning to fine-tune pre-trained
       vision models on the Fruits and Vegetables dataset from Kaggle followed by NLP to offer
       personalized recipe recommendations based on the identified ingredients. 
-   # conference_short: CVPR
+    conference_short: Group Project
+  # (Candidates Contribution - Data Augmentation and Vision Transformer)
    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: ./assets/files/Ml Master Chefs_ Final paper.pdf
     code: https://github.com/saitejasri1/Shared-ML-project
@@ -29,4 +30,27 @@ main:
   #  notes: Oral Presentation
     image: ./assets/img/ViT_IMG.png
 
-  
+  - title: "Identifying major conspiracy theories from Reddit threads : Topic Modelling using LDA and HDBSCAN"
+    authors: This project uses unsupervised learning to group reddit text and identify major conspiracy theories using NLP, LDA, spacy, SVD, SBert embedding and HDSCAN. 
+    conference_short: Personal Project
+   # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: ./assets/files/Topic_Modelling.pdf
+    code: https://github.com/anurima-saha/topic-modelling
+ #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  notes: Oral Presentation
+    image: ./assets/img/Topic_Modelling.png
+
+  - title: "Predicting Crime Resolution in Los Angeles using Machine Learning"
+    authors: This project uses LAPD crime data to train a model on crime type, location, premise and time of occurance along with victim details. Supervised machine learning models like Random Forest and XGBoost have been used to determine if a certain crime 
+      will reamin unresolved along with the probability of resolution. 
+    conference_short: Personal Project
+   # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: ./assets/files/Crime_Resolution.pdf
+    code: https://github.com/anurima-saha/LA_Crime_Prediction
+ #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  notes: Oral Presentation
+    image: ./assets/img/Crime_Pred.png
+
+
