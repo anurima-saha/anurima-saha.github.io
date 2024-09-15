@@ -15,10 +15,10 @@ main:
     #notes: Early Accept
 
   - title: "Deep Learning Based Recipe Discovery and Recommendation"
-    authors: Deep learning and Natural Language Processing used to develop an automated system capable of
+    authors: <i>Deep learning and Natural Language Processing</i> used to develop an automated system capable of
       accurately recognizing a wide range of fruits and vegetables from their images using advanced
-      Vision Transformer. The methodology involves the use of transfer learning to fine-tune pre-trained
-      vision models on the Fruits and Vegetables dataset from Kaggle followed by NLP to offer
+      <i>Vision Transformer</i>. The methodology involves the use of <i>transfer learning to fine-tune pre-trained
+      vision models</i> on the Fruits and Vegetables dataset from Kaggle followed by NLP to offer
       personalized recipe recommendations based on the identified ingredients. 
     conference_short: Group Project
   # (Candidates Contribution - Data Augmentation and Vision Transformer)
@@ -31,7 +31,7 @@ main:
     image: ./assets/img/ViT_IMG.png
 
   - title: "Identifying major conspiracy theories from Reddit threads : Topic Modelling using LDA and HDBSCAN"
-    authors: This project uses unsupervised learning to group reddit text and identify major conspiracy theories using NLP, LDA, spacy, SVD, SBert embedding and HDSCAN. 
+    authors: This project uses <i>unsupervised machine learning </i> to group reddit text and identify major conspiracy theories using <i>NLP, LDA, spacy, SVD, SBert embedding and HDSCAN</i>. 
     conference_short: Personal Project
    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: ./assets/files/Topic_Modelling.pdf
@@ -42,7 +42,7 @@ main:
     image: ./assets/img/Topic_Modelling.png
 
   - title: "Predicting Crime Resolution in Los Angeles using Machine Learning"
-    authors: This project uses LAPD crime data to train a model on crime type, location, premise and time of occurance along with victim details. Supervised machine learning models like Random Forest and XGBoost have been used to determine if a certain crime 
+    authors: This project uses LAPD crime data to train a model on crime type, location, premise and time of occurance along with victim details. <i>Supervised machine learning models</i> like <i>Random Forest and XGBoost</i> have been used to determine if a certain crime 
       will reamin unresolved along with the probability of resolution. 
     conference_short: Personal Project
    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
@@ -55,7 +55,7 @@ main:
 
   
   - title: "Probability of Default Modelling for Invoice Financing"
-    authors: <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b><br> 
+    authors: <b>HSBC - UK Transaction Risk Management for Invoice Financing Clients</b><br> 
       Project undertaken as a part of risk mitigation initiative with the onset of COVID 19. 
       Data mining done using <i>SQL querying  and Excel</i> for all transactional and behavioral information of customer base 2007 onwards. 
       Portfolio level analysis done for customers to determine risk appetite taking into consideration trends in macroeconomic metrics. 
@@ -73,11 +73,12 @@ main:
     image: ./assets/img/hsbc.png
 
   - title: "Anomaly Detection and Pattern Recognition"
-    authors: <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b><br> 
+    authors: <b>HSBC - UK Transaction Risk Management for Invoice Financing Clients</b><br> 
       HSBC business required an automated framework to launch early triggers for disruptive patterns in customer transaction behaviour. Data mining done using <i>SQL</i> querying 
       all transactional and behavioural information of customers.<i>Data Engineering</i> done to create metrics to track 3-monthly and 6-monthly behaviour of customers.
       Trigger framework developed using <b>ensemble Machine learning algorithms in python with ~80% accuracy of prediction </b>.
       Testing and model documentation done as appropriate for risk models.
+      <br> Benefit-  ~3 million GBP
     conference_short: Professional Project
     #conference: Associated with- <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b>
     # pdf: ./assets/files/Crime_Resolution.pdf
@@ -86,5 +87,20 @@ main:
   #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #  notes: Oral Presentation
     image: ./assets/img/hsbc.png
+
+  - title: "Risk segmentation (Symbol) Model for EV"
+    authors: <b> AAA - Data Science Research </b><br> 
+      Project involved model development for risk segmentation of Electric Vehicles using statistical analysis and machine learning.Collaborated with team to extract data using Snowflake and develop understanding of insurance domain
+      Performed extensive <i>exploratory data analysis</i> to identify new feature for EV loss data modeling.
+      Developed an <i>ensemble machine learning model in Python using AWS</i> to understand the impact of newly identified feature. Incorporated feature into existing segmentation model to achieve considerable <i>improvement in model performance</i>(Gini increase of 11.6%)
+      <i>Presented insights</i> to business leaders and cross-functional teams for <i>implementation</i>
+    conference_short: Professional Project
+    #conference: Associated with- <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b>
+    # pdf: ./assets/files/Crime_Resolution.pdf
+    # code: https://github.com/anurima-saha/LA_Crime_Prediction
+ #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  notes: Oral Presentation
+    image: ./assets/img/aaa.png
 
 
