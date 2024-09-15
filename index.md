@@ -16,7 +16,13 @@ Graduate student (*Big Data Analytics and Data Science* at [***San Diego State U
 - **Database Querying –** SQL, Snowflake
 
 ## News
-- **[May. 2024]** Graduate Research Excellence Awarad at SDSU Student Symposium ([Link](https://big.sdsu.edu))
+- **[May. 2024]** Started internship at AAA - Data Science Research
+- **[May. 2024]** Graduate Research Excellence Award at SDSU Student Symposium ([Link](https://big.sdsu.edu))
+- **[Aug. 2023]** Started MS in Data Science at SDSU
+- **[May. 2022]** Awarded Star of Business Service at HSBC
+- **[Sep. 2021]** Promoted to Senior Analyst
+- **[May. 2020]** Awarded team Star at HSBC
+
 
 
 
@@ -71,6 +77,23 @@ learning in R, RShiny and Python
 communicate data insights to stakeholders.
 * Assisted with data pulling from data lake followed by data engineering and reduction.
 * Developed professional competency in MS Office tools like PowerPoint, Word, Outlook and Teams
+
+## Education
+
+**San Diego State University, CA, United States** <br> ***MS in Big Data Analytics and Data Science*** <br> **AUG 2023 - PRESENT** <br> ***GPA - 4.0*** <br>
+
+CS 549 - Machine Learning <br>
+CS 553 - Neural Networks *(Current)*<br>
+CS 561 - Deep Learning for Natural Language Processing *(Current)*<br>
+LING 583 - Statistical Methods for Text Analysis<br>
+BDA 594 - Big Data Science and Analytics Platforms<br>
+BDA 602 - Machine Learning Engineering<br>
+BDA 696 - Advanced Special Topics in Big Data Analytics<br>
+BDA 797 - Research *(Current)* <br>
+
+**University of Calcutta, India** <br> ***MSc in Economics(Econometrics)*** <br> **AUG 2017 - AUG 2019** <br> ***GPA - 3.8*** <br>
+
+
 
 
 ## Awards
