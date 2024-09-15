@@ -53,6 +53,7 @@ main:
   #  notes: Oral Presentation
     image: ./assets/img/Crime_Pred.png
 
+  
   - title: "Probability of Default Modelling for Invoice Financing"
     authors: <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b><br> 
       Project undertaken as a part of risk mitigation initiative with the onset of COVID 19. 
@@ -62,6 +63,21 @@ main:
       Strategy rules developed with <i>85% accuracy score</i>. Automated decision engine for 
       recessionary credit request approval <b>implemented</b> followed by rigorous <i>testing and model documentation appropriate for risk models</i>. 
       <br> Benefit-  ~35 million GBP
+    conference_short: Professional Project
+    #conference: Associated with- <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b>
+    # pdf: ./assets/files/Crime_Resolution.pdf
+    # code: https://github.com/anurima-saha/LA_Crime_Prediction
+ #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #  notes: Oral Presentation
+    image: ./assets/img/hsbc.png
+
+  - title: "Anomaly Detection and Pattern Recognition"
+    authors: <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b><br> 
+      HSBC business required an automated framework to launch early triggers for disruptive patterns in customer transaction behaviour. Data mining done using <i>SQL</i> querying 
+      all transactional and behavioural information of customers.<i>Data Engineering</i> done to create metrics to track 3-monthly and 6-monthly behaviour of customers.
+      Trigger framework developed using <b>ensemble Machine learning algorithms in python with ~80% accuracy of prediction </b>.
+      Testing and model documentation done as appropriate for risk models.
     conference_short: Professional Project
     #conference: Associated with- <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b>
     # pdf: ./assets/files/Crime_Resolution.pdf
