@@ -53,22 +53,14 @@ main:
   #  notes: Oral Presentation
     image: ./assets/img/Crime_Pred.png
 
-  - title: "Probability of Default Modelling for Invoice Financing"
-    authors: <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b><br> 
-      Project undertaken as a part of risk mitigation initiative with the onset of COVID 19. 
-      Data mining done using <i>SQL querying  and Excel</i> for all transactional and behavioral information of customer base 2007 onwards. 
-      Portfolio level analysis done for customers to determine risk appetite taking into consideration trends in macroeconomic metrics. 
-      <i>Customer segmentation</i> performed using <i>Machine learning in Python</i> on the basis of probability of default subject to amount requested for loan. 
-      Strategy rules developed with <i>85% accuracy score</i>. Automated decision engine for 
-      recessionary credit request approval <b>implemented</b> followed by rigorous <i>testing and model documentation appropriate for risk models</i>. 
-      <br> Benefit-  ~35 million GBP
-    conference_short: Professional Project
-    #conference: Associated with- <b>UK Transaction Risk Management for Invoice Financing Clients of HSBC </b>
-    # pdf: ./assets/files/Crime_Resolution.pdf
-    # code: https://github.com/anurima-saha/LA_Crime_Prediction
+  - title: "
+    authors: This project uses LAPD crime data to train a model on crime type, location, premise and time of occurance along with victim details. Supervised machine learning models like Random Forest and XGB>
+      will reamin unresolved along with the probability of resolution. 
+    conference_short: Personal Project
+   # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: ./assets/files/Crime_Resolution.pdf
+    code: https://github.com/anurima-saha/LA_Crime_Prediction
  #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
   #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #  notes: Oral Presentation
-    image: ./assets/img/hsbc.png
-
-
+    image: ./assets/img/Crime_Pred.png
